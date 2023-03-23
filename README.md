@@ -1,2 +1,8 @@
- Hi to you? I am Luke Ngirubiu currently based in Nairobi. I am a full stack developer in both web and and mobile development. I have worked with Django rest and flask API for backend and Vue js for frontend. On mobile development i have some basics of flutter and on native development, i am well versed with both Java and Kotlin for android development. I am keenly interested in native mobile development, datascience and backend development. Currently learning Jetpack compose, Docker and Kubernetes
+I am Luke Ngirubiu currently based in Nairobi. I am a full stack developer in both web and and mobile development. The following are my stacks.
+1. Python (Django rest and flask API for backend) and basics of Data science.
+2. PHP (Laravel for general webdesign as well as API development).
+3. Kotlin, Dart, XML and Java for both Native and cross-platform applications
+4. Containerization with Docker.
+5. Javascript; Experienced in Vue js and i am familiar to React js
+
 
