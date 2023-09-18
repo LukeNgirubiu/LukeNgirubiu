@@ -3,6 +3,6 @@ I am Luke Ngirubiu currently based in Nairobi. I am a full stack developer in bo
 2. PHP (Laravel for general webdesign as well as API development).
 3. Kotlin, Dart, Flutter, XML and Java for both Native and cross-platform mobile applications
 4. Containerization with Docker.
-5. Javascript; Experienced in Vue js and i am familiar to React js
+5. Javascript; Experienced in Vue js and React js
 
 
